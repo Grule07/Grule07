@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Still studying Information Technology at CEU/Centro Escolar University  ...<br>📚 I'm currently learning Java, Django and also python ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
